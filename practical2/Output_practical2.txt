@@ -1,0 +1,10 @@
+Values [Moletsane Secondary School, 5.0, 0,Ditau Primary School, 5.0, 1,Glenridge Primary School, 5.0, 2,Lufhereng High School, 5.0, 3,Kliptown Primary School, 5.0, 4,Winnie Madikizela-Mandela School, 5.0, 5,Emisebeni Junior Primary School, 5.0, 6,Mafori - Mphahlele High School, 5.0, 7,Gazankulu Primary School, 5.0, 8,WO BIBLE COLLEGE, 5.0, 9,Johannesburg Bible College, 5.0, 10,Greenwich College, 5.0, 11,Saint Barnabas College, 5.0, 12,Oasis Manor, 5.0, 13,Neksatec, 5.0, 14,Sparrow FET College, 5.0, 15,Zerowa Christian Academy, 5.0, 16,Khotso Primary School, 5.0, 17,]
+Sorted [Ditau Primary School, 5.0, 1,Emisebeni Junior Primary School, 5.0, 6,Gazankulu Primary School, 5.0, 8,Glenridge Primary School, 5.0, 2,Greenwich College, 5.0, 11,Johannesburg Bible College, 5.0, 10,Khotso Primary School, 5.0, 17,Kliptown Primary School, 5.0, 4,Lufhereng High School, 5.0, 3,Mafori - Mphahlele High School, 5.0, 7,Moletsane Secondary School, 5.0, 0,Neksatec, 5.0, 14,Oasis Manor, 5.0, 13,Saint Barnabas College, 5.0, 12,Sparrow FET College, 5.0, 15,Winnie Madikizela-Mandela School, 5.0, 5,WO BIBLE COLLEGE, 5.0, 9,Zerowa Christian Academy, 5.0, 16,]
+
+
+Following in Depth First Traversal at vertex 0
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 
+
+
+Following Breadth First Traversal at vertex 0
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 
